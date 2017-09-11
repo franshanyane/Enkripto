@@ -1,0 +1,13 @@
+C:\Development\Enkrypto\Enkripto\bin\Debug\Enkripto.exe.config
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.csprojResolveAssemblyReference.cache
+C:\Development\Enkrypto\Enkripto\obj\Debug\MainWindow.baml
+C:\Development\Enkrypto\Enkripto\obj\Debug\MainWindow.g.cs
+C:\Development\Enkrypto\Enkripto\obj\Debug\App.g.cs
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto_MarkupCompile.cache
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.g.resources
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.Properties.Resources.resources
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.csproj.GenerateResource.Cache
+C:\Development\Enkrypto\Enkripto\bin\Debug\Enkripto.exe
+C:\Development\Enkrypto\Enkripto\bin\Debug\Enkripto.pdb
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.exe
+C:\Development\Enkrypto\Enkripto\obj\Debug\Enkripto.pdb

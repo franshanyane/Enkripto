@@ -1,0 +1,17 @@
+C:\Development\Enkrypto\Enkripto\bin\Release\Enkripto.exe.config
+C:\Development\Enkrypto\Enkripto\bin\Release\Enkripto.exe
+C:\Development\Enkrypto\Enkripto\bin\Release\Enkripto.pdb
+C:\Development\Enkrypto\Enkripto\obj\Release\MainWindow.baml
+C:\Development\Enkrypto\Enkripto\obj\Release\MainWindow.g.cs
+C:\Development\Enkrypto\Enkripto\obj\Release\App.g.cs
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto_MarkupCompile.cache
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.g.resources
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.Properties.Resources.resources
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.csproj.GenerateResource.Cache
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.exe
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.pdb
+C:\Development\Enkrypto\Enkripto\bin\Release\Enkripto.exe.manifest
+C:\Development\Enkrypto\Enkripto\bin\Release\Enkripto.application
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.TrustInfo.xml
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.exe.manifest
+C:\Development\Enkrypto\Enkripto\obj\Release\Enkripto.application
